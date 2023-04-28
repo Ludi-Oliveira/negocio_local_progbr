@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* Versão Telas Maiores */
+
+@media screen and (min-width:600px){
+    .menu li{
+        display: inline-block;
+        padding: 6px 25px;
+    }
+
+    .aNav{
+        font-size: 1.1em;
+    }
+
+}
